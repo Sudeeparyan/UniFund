@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sm-001",
+    "title": "Spend under €8 today",
+    "xp": 50,
+    "completed": false
+  },
+  {
+    "id": "sm-002",
+    "title": "Cook at least 1 meal",
+    "xp": 30,
+    "completed": false
+  },
+  {
+    "id": "sm-003",
+    "title": "No coffee shop visits",
+    "xp": 25,
+    "completed": true
+  },
+  {
+    "id": "sm-004",
+    "title": "Use student discount on a purchase",
+    "xp": 20,
+    "completed": false
+  },
+  {
+    "id": "sm-005",
+    "title": "Walk instead of taking transport",
+    "xp": 15,
+    "completed": false
+  }
+]

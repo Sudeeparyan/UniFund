@@ -1,0 +1,50 @@
+{
+  "currentStreak": 7,
+  "longestStreak": 14,
+  "todayUnderBudget": true,
+  "milestones": [
+    {
+      "days": 3,
+      "label": "Getting Started",
+      "emoji": "🌱",
+      "reward": "Badge: Budget Seedling",
+      "achieved": true,
+      "claimed": true
+    },
+    {
+      "days": 7,
+      "label": "One Week Warrior",
+      "emoji": "🔥",
+      "reward": "Free campus coffee coupon",
+      "achieved": true
+    },
+    {
+      "days": 14,
+      "label": "Budget Master",
+      "emoji": "⚡",
+      "reward": "€5 Tesco voucher",
+      "achieved": true
+    },
+    {
+      "days": 30,
+      "label": "Money Monk",
+      "emoji": "🧘",
+      "reward": "€10 Amazon gift card",
+      "achieved": false
+    },
+    {
+      "days": 60,
+      "label": "Financial Guru",
+      "emoji": "👑",
+      "reward": "Premium feature unlock",
+      "achieved": false
+    },
+    {
+      "days": 90,
+      "label": "Legendary Saver",
+      "emoji": "🏆",
+      "reward": "€25 experience voucher",
+      "achieved": false
+    }
+  ]
+}

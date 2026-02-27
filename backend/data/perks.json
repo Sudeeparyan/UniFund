@@ -1,0 +1,98 @@
+[
+  {
+    "id": "perk-001",
+    "brand": "McDonald's",
+    "logo": "🍔",
+    "deal": "10% off with Student ID",
+    "code": "STUDENT10",
+    "category": "Food",
+    "isActive": false,
+    "isHot": false,
+    "expiryDate": "2026-06-30",
+    "nearYou": true
+  },
+  {
+    "id": "perk-002",
+    "brand": "Starbucks",
+    "logo": "☕",
+    "deal": "Free size upgrade on Thursdays",
+    "code": "",
+    "category": "Food",
+    "isActive": false,
+    "isHot": false,
+    "expiryDate": "",
+    "nearYou": true
+  },
+  {
+    "id": "perk-003",
+    "brand": "Nike",
+    "logo": "👟",
+    "deal": "10% Student Discount Online",
+    "code": "",
+    "category": "Shopping",
+    "isActive": false,
+    "isHot": true,
+    "expiryDate": "",
+    "nearYou": false
+  },
+  {
+    "id": "perk-004",
+    "brand": "Spotify",
+    "logo": "🎵",
+    "deal": "50% off Premium (already active!)",
+    "code": "",
+    "category": "Entertainment",
+    "isActive": true,
+    "isHot": false,
+    "expiryDate": "",
+    "nearYou": false
+  },
+  {
+    "id": "perk-005",
+    "brand": "Domino's",
+    "logo": "🍕",
+    "deal": "25% off orders over €15",
+    "code": "STUDENT25",
+    "category": "Food",
+    "isActive": false,
+    "isHot": false,
+    "expiryDate": "2026-04-30",
+    "nearYou": true
+  },
+  {
+    "id": "perk-006",
+    "brand": "Cineworld",
+    "logo": "🎬",
+    "deal": "€8 tickets on Tuesdays",
+    "code": "",
+    "category": "Entertainment",
+    "isActive": false,
+    "isHot": false,
+    "expiryDate": "",
+    "nearYou": true
+  },
+  {
+    "id": "perk-007",
+    "brand": "Apple",
+    "logo": "💻",
+    "deal": "Education pricing + Free AirPods",
+    "code": "",
+    "category": "Tech",
+    "isActive": false,
+    "isHot": true,
+    "expiryDate": "2026-09-30",
+    "nearYou": false
+  },
+  {
+    "id": "perk-008",
+    "brand": "Dublin Bus",
+    "logo": "🚌",
+    "deal": "Leap Card student fare — 30% off",
+    "code": "",
+    "category": "Transport",
+    "isActive": true,
+    "isHot": false,
+    "expiryDate": "",
+    "nearYou": true
+  }
+]

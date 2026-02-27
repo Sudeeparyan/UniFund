@@ -1,0 +1,26 @@
+[
+  {
+    "id": "act-001",
+    "emoji": "✅",
+    "text": "Mike paid you back €5.00",
+    "time": "Yesterday"
+  },
+  {
+    "id": "act-002",
+    "emoji": "📤",
+    "text": "You sent a nudge to Sarah",
+    "time": "2 days ago"
+  },
+  {
+    "id": "act-003",
+    "emoji": "🍕",
+    "text": "New split: Pizza Night — €45 total",
+    "time": "4 days ago"
+  },
+  {
+    "id": "act-004",
+    "emoji": "💸",
+    "text": "You paid Emma €12.00 for Netflix",
+    "time": "1 week ago"
+  }
+]

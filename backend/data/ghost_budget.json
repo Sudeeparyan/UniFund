@@ -1,0 +1,4 @@
+[
+  { "purpose": "Spring Break Fund", "emoji": "🏖️", "amount": 200, "unlockDate": "2026-03-15", "lockType": "date" },
+  { "purpose": "Emergency Fund", "emoji": "🚨", "amount": 150, "unlockDate": "", "lockType": "phrase" }
+]

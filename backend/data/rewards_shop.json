@@ -1,0 +1,112 @@
+[
+  {
+    "id": "rw-001",
+    "name": "Remove Notifications (1 week)",
+    "description": "Silence all push notifications for 7 days. Peace and quiet for your study week.",
+    "emoji": "🔕",
+    "cost": 50,
+    "category": "app",
+    "stock": null,
+    "purchased": false,
+    "purchasedAt": null
+  },
+  {
+    "id": "rw-002",
+    "name": "€2 Tesco Voucher",
+    "description": "Get €2 off your next Tesco shop. Applied automatically at checkout.",
+    "emoji": "🛒",
+    "cost": 75,
+    "category": "coupon",
+    "stock": 12,
+    "purchased": false,
+    "purchasedAt": null
+  },
+  {
+    "id": "rw-003",
+    "name": "Free Campus Coffee",
+    "description": "Redeem a free regular coffee at any campus café. Valid for 48 hours.",
+    "emoji": "☕",
+    "cost": 40,
+    "category": "coupon",
+    "stock": 25,
+    "purchased": false,
+    "purchasedAt": null
+  },
+  {
+    "id": "rw-004",
+    "name": "Custom App Theme",
+    "description": "Unlock exclusive premium colour themes for your UniFund dashboard.",
+    "emoji": "🎨",
+    "cost": 120,
+    "category": "app",
+    "stock": null,
+    "purchased": false,
+    "purchasedAt": null
+  },
+  {
+    "id": "rw-005",
+    "name": "€5 Amazon Gift Card",
+    "description": "A €5 Amazon.ie gift card code delivered to your email.",
+    "emoji": "🎁",
+    "cost": 200,
+    "category": "coupon",
+    "stock": 5,
+    "purchased": false,
+    "purchasedAt": null
+  },
+  {
+    "id": "rw-006",
+    "name": "Priority AI Chat",
+    "description": "Skip the queue and get faster responses from UniFund AI for 30 days.",
+    "emoji": "⚡",
+    "cost": 100,
+    "category": "app",
+    "stock": null,
+    "purchased": false,
+    "purchasedAt": null
+  },
+  {
+    "id": "rw-007",
+    "name": "€3 Domino's Voucher",
+    "description": "€3 off your next Domino's order over €12. Combine with student deals!",
+    "emoji": "🍕",
+    "cost": 90,
+    "category": "coupon",
+    "stock": 8,
+    "purchased": false,
+    "purchasedAt": null
+  },
+  {
+    "id": "rw-008",
+    "name": "Profile Badge: Gold Star",
+    "description": "Show off a shiny gold star badge on your community profile.",
+    "emoji": "⭐",
+    "cost": 60,
+    "category": "badge",
+    "stock": null,
+    "purchased": false,
+    "purchasedAt": null
+  },
+  {
+    "id": "rw-009",
+    "name": "Double XP Day",
+    "description": "All mission completions earn 2x coins for 24 hours.",
+    "emoji": "🚀",
+    "cost": 150,
+    "category": "app",
+    "stock": null,
+    "purchased": false,
+    "purchasedAt": null
+  },
+  {
+    "id": "rw-010",
+    "name": "€1 Off Grocery",
+    "description": "€1 discount at any grocery store. Scan barcode at checkout.",
+    "emoji": "🥬",
+    "cost": 30,
+    "category": "coupon",
+    "stock": 50,
+    "purchased": false,
+    "purchasedAt": null
+  }
+]

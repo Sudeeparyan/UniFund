@@ -1,0 +1,80 @@
+[
+  {
+    "id": "mkt-001",
+    "title": "IKEA Desk — MALM",
+    "description": "White MALM desk, great condition. Used for 1 year.",
+    "price": 40,
+    "originalPrice": 120,
+    "category": "Furniture",
+    "image": "",
+    "seller": "Anna P.",
+    "sellerRating": 4.8,
+    "distance": "1.2 km",
+    "type": "secondhand"
+  },
+  {
+    "id": "mkt-002",
+    "title": "MacBook Air 2024 M3",
+    "description": "Perfect condition, includes charger. AppleCare until 2027.",
+    "price": 750,
+    "originalPrice": 1299,
+    "category": "Electronics",
+    "image": "",
+    "seller": "Tom R.",
+    "sellerRating": 5.0,
+    "distance": "3.5 km",
+    "type": "secondhand"
+  },
+  {
+    "id": "mkt-003",
+    "title": "Freshman Starter Kit",
+    "description": "Everything you need: bedding set, kitchen essentials, toiletries, desk lamp, extension cord. All new or barely used.",
+    "price": 65,
+    "originalPrice": 150,
+    "category": "Starter Kit",
+    "image": "",
+    "seller": "Stash Verified",
+    "sellerRating": 5.0,
+    "distance": "Campus",
+    "type": "starter-kit"
+  },
+  {
+    "id": "mkt-004",
+    "title": "Cooking Kit for Indian Students",
+    "description": "Pressure cooker, masala dabba, tawa, rolling pin, spice set (cumin, turmeric, garam masala).",
+    "price": 35,
+    "originalPrice": 80,
+    "category": "Starter Kit",
+    "image": "",
+    "seller": "Stash Verified",
+    "sellerRating": 5.0,
+    "distance": "Campus",
+    "type": "starter-kit"
+  },
+  {
+    "id": "mkt-005",
+    "title": "1hr Coding Help (Python/JS)",
+    "description": "CS masters student offering tutoring. Can help with assignments, projects, debugging.",
+    "price": 0,
+    "originalPrice": null,
+    "category": "Tutoring",
+    "image": "",
+    "seller": "Kiran D.",
+    "sellerRating": 4.9,
+    "distance": "Online",
+    "type": "barter"
+  },
+  {
+    "id": "mkt-006",
+    "title": "Home-cooked Meal Swap",
+    "description": "I'll cook South Indian food if you cook pasta/European food! Weekly swap.",
+    "price": 0,
+    "originalPrice": null,
+    "category": "Food",
+    "image": "",
+    "seller": "Meera J.",
+    "sellerRating": 4.7,
+    "distance": "Drumcondra",
+    "type": "barter"
+  }
+]

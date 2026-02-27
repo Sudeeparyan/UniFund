@@ -1,0 +1,39 @@
+{
+  "name": "Jaya Deshmukh",
+  "initials": "JD",
+  "avatar": "",
+  "email": "jdeshmukh@tcd.ie",
+  "phone": "+353 85 123 4567",
+  "homeCurrency": "INR",
+  "hostCurrency": "EUR",
+  "monthlyBudget": 1200,
+  "loanDate": "2026-04-01",
+  "university": "Trinity College Dublin",
+  "course": "MSc Computer Science",
+  "studentId": "TCD-2025-78432",
+  "yearOfStudy": 1,
+  "bio": "Grad student surviving Dublin prices one budget hack at a time 🍀",
+  "joinedDate": "2025-09-12",
+  "location": "Dublin 2, Ireland",
+  "achievements": [
+    { "id": "a1", "emoji": "🔥", "label": "7-Day Streak", "date": "2026-02-20" },
+    { "id": "a2", "emoji": "🏆", "label": "Budget Master", "date": "2026-01-15" },
+    { "id": "a3", "emoji": "🛒", "label": "Grocery Guru", "date": "2026-02-10" },
+    { "id": "a4", "emoji": "💰", "label": "First Lock", "date": "2025-10-05" },
+    { "id": "a5", "emoji": "👥", "label": "Squad Leader", "date": "2025-11-20" }
+  ],
+  "stats": {
+    "totalSaved": 347.50,
+    "avgDailySpend": 28.60,
+    "budgetHitRate": 78,
+    "longestStreak": 14,
+    "transactionCount": 142,
+    "topCategory": "Food & Drink"
+  },
+  "preferences": {
+    "notifications": true,
+    "weeklyReport": true,
+    "roastLevel": "medium",
+    "currency": "EUR"
+  }
+}

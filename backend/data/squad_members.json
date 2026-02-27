@@ -1,0 +1,38 @@
+[
+  {
+    "id": "sq-001",
+    "name": "Mike K.",
+    "initials": "MK",
+    "amount": 9.25,
+    "direction": "owes-you",
+    "reason": "Uber ride (2 days ago)",
+    "daysSince": 2
+  },
+  {
+    "id": "sq-002",
+    "name": "Sarah L.",
+    "initials": "SL",
+    "amount": 15.0,
+    "direction": "owes-you",
+    "reason": "Pizza Night",
+    "daysSince": 4
+  },
+  {
+    "id": "sq-003",
+    "name": "Jake T.",
+    "initials": "JT",
+    "amount": 23.0,
+    "direction": "owes-you",
+    "reason": "Groceries split (1 week ago)",
+    "daysSince": 7
+  },
+  {
+    "id": "sq-004",
+    "name": "Emma M.",
+    "initials": "EM",
+    "amount": 12.0,
+    "direction": "you-owe",
+    "reason": "Netflix subscription",
+    "daysSince": 0
+  }
+]

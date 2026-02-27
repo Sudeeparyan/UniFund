@@ -1,0 +1,15 @@
+{
+  "balance": 320,
+  "lifetime": 580,
+  "history": [
+    { "id": "ch-001", "type": "earned", "amount": 50, "source": "mission", "label": "Completed: Spend under €8 today", "date": "2026-02-27" },
+    { "id": "ch-002", "type": "earned", "amount": 25, "source": "mission", "label": "Completed: No coffee shop visits", "date": "2026-02-27" },
+    { "id": "ch-003", "type": "earned", "amount": 100, "source": "streak", "label": "7-day streak milestone", "date": "2026-02-26" },
+    { "id": "ch-004", "type": "earned", "amount": 50, "source": "streak", "label": "3-day streak milestone", "date": "2026-02-23" },
+    { "id": "ch-005", "type": "spent", "amount": -75, "source": "reward", "label": "Redeemed: €2 Tesco Voucher", "date": "2026-02-25" },
+    { "id": "ch-006", "type": "earned", "amount": 30, "source": "mission", "label": "Completed: Cook at least 1 meal", "date": "2026-02-25" },
+    { "id": "ch-007", "type": "earned", "amount": 20, "source": "mission", "label": "Completed: Use student discount", "date": "2026-02-24" },
+    { "id": "ch-008", "type": "spent", "amount": -50, "source": "reward", "label": "Redeemed: Remove Notifications (1 week)", "date": "2026-02-22" },
+    { "id": "ch-009", "type": "earned", "amount": 150, "source": "streak", "label": "14-day streak milestone", "date": "2026-02-20" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "totalBalance": 1200,
+  "lockedFunds": [
+    { "name": "Rent", "emoji": "🏠", "amount": 650 },
+    { "name": "WiFi", "emoji": "📶", "amount": 45 },
+    { "name": "Spotify", "emoji": "🎵", "amount": 5.99 }
+  ],
+  "dailyBudget": 35,
+  "spentToday": 12.50,
+  "ghostItems": [
+    { "purpose": "Spring Break Fund", "emoji": "🏖️", "amount": 200, "unlockDate": "2026-03-15", "lockType": "date" },
+    { "purpose": "Emergency Fund", "emoji": "🚨", "amount": 150, "unlockDate": "", "lockType": "phrase" }
+  ]
+}
